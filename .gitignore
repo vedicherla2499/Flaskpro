@@ -135,7 +135,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
 prjenv/
+=======
+>>>>>>> 08e39def80bf76dc5dc6db58bddb2286e59d081f
 
 # Spyder project settings
 .spyderproject
